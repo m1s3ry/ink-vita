@@ -10,7 +10,7 @@ It **WILL NOT WORK* with a pirated copy of the game due to hash check.
 
 ## Instructions (Read them carefully)
 1. Download the VPK and install it on your hacked PS Vita
-2. In your PC, open the folder when you have installed INK (Steam only at the moment)
+2. In your PC, open the folder when you have installed INK (Steam only at the moment). If you only have a .exe, extract it with 7zip.
 3. Download the patch for your version and extract it in that folder. After that, run `apply_patch.bat`. This will create a folder called `Patched_Files`
 4. If everything went correctly, your Patched_Files folders will have a file called `eboot.bin` and a folder called `games` with a `game.win` file.
 5. Copy `eboot.bin` and the `games` folder and move them to the vita, `ux0:app/INKV00000`. Overwrite when prompted. 
